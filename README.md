@@ -1,2 +1,2 @@
 # eispot
-All wifi projects
+All wifi projects for the company
